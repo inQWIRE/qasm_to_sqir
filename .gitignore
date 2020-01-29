@@ -1,0 +1,15 @@
+*.aux
+*.glob
+*.vo
+.*
+*~
+
+# Ignore OCaml object files
+*.cmo
+*.cmi
+
+# ocamlbuild working directory
+_build/
+
+# auto-generated files
+lib/SqirGates.ml

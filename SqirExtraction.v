@@ -1,6 +1,6 @@
 Require Coq.extraction.Extraction.
 
-Require Import core.SQIR.
+Require Import SQIR.SQIR.
 Require Import Reals.
 
 Require Coq.extraction.ExtrOcamlNatInt.
